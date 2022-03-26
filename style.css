@@ -1,0 +1,13 @@
+.container {
+text-align: center;
+}
+button{
+    background: #069;
+    color: white;
+    font-size: 32px;
+    padding: 8px 20px;
+    cursor: pointer;
+}
+body {
+    background-image: linear-gradient(to left, white, rgb(117, 119, 197));
+}
